@@ -14,7 +14,6 @@ interface ItemType {
   name: string
 }
 
-
 export default function BookList({ bookID }: PropsType) {
   const { loading, error, data } = useQuery(GET_BOOK, {
     variables: { bookID },
