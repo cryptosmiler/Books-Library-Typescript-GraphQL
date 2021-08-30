@@ -1,5 +1,7 @@
+import HomaPage from './pages/HomePage'
+
 function App() {
-  return <>this is my app</>
+  return <HomaPage />
 }
 
 export default App
