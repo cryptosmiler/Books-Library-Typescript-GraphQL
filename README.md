@@ -5,7 +5,7 @@
       src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png">
   </div>
   <br>
-    Typescript Version Of GraphQL Books Library Built Using React.JS, GraphQL, Apollo Client, Node.JS, Express.JS and MongoDB.
+    Typescript Version Of GraphQL Books lib Built Using React.JS, GraphQL, Apollo Client, Node.JS, Express.JS and MongoDB.
 </h1>
 
 <p><font size="3">
